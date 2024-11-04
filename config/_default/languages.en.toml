@@ -1,0 +1,34 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = ""
+
+[params]
+  displayName = "EN 🇺🇸"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 Jan 2006"
+  logo = "img/logo.png"
+  secondaryLogo = "img/secondary-logo.png"
+  description = "My awesome website"
+  copyright = "Copy, right? \U0001F914"
+
+[params.author]
+  name = "okoval"
+  email = "okoval.page@gmail.com"
+  image = "img/author_logo.png"
+  imageQuality = 96
+  # headline = "I'm only human"
+  bio = "Your hobby wizard"
+  links = [
+    { email = "mailto:okoval.page@gmail.com" },
+    { link = "https://okoval.page/" },
+#    { discord = "https://discord.gg/invitecode" },
+#    { github = "https://github.com/username" },
+    { instagram = "https://instagram.com/car.scale" },
+#    { patreon = "https://www.patreon.com/username" },
+#    { telegram = "https://t.me/username" },
+    { x-twitter = "https://twitter.com/KovalAlexey" },
+#    { youtube = "https://youtube.com/username" }
+  ]

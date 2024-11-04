@@ -1,0 +1,78 @@
+global:
+  language: "UA"
+
+article:
+  anchor_label: "Закладка"
+  date: "{{ .Date }}"
+  date_updated: "Оновлено {{ .Date }}"
+  draft: "Чернетка"
+  edit_title: "Редагувати"
+  reading_time:
+    one: "{{ .Count }} хвилинку"
+    few: "{{ .Count }} хвилинки"
+    many: "{{ .Count }} хвилинок"
+    other: "{{ .Count }} хвилинки"
+  reading_time_title: "Прочитаєте за"
+  table_of_contents: "Зміст"
+  word_count:
+    one: "{{ .Count }} слово"
+    few: "{{ .Count }} слова"
+    many: "{{ .Count }} слів"
+    other: "{{ .Count }} слова"
+  views:
+    one: "{{ .Count }} view"
+    other: "{{ .Count }} views"
+  likes:
+    one: "{{ .Count }} вподобайка"
+    other: "{{ .Count }} вподобайок"
+  part_of_series: "Цей пост частина серії."
+  part: "Частина"
+  this_article: "Цей пост"
+  related_articles: "Схожі"
+  zen_mode_title:
+    enable: "Enable zen mode"
+    disable: "Disable zen mode"
+
+author:
+  byline_title: "Автор"
+
+code:
+  copy: "Копіювати"
+  copied: "Скопійовано"
+
+error:
+  404_title: "Такої сторінки не існує :confused:"
+  404_error: "Помилка 404"
+  404_description: "Здається, сторінки, яка вам потрібна, не існує."
+
+footer:
+  dark_appearance: "Перейти на темну сторону"
+  light_appearance: "Перейти на світлку сторону"
+  powered_by: "Сайт працює на {{ .Hugo }}"
+
+list:
+  externalurl_title: "Зовнішнє посилання"
+  no_articles: "Дописів поки що немає"
+
+nav:
+  scroll_to_top_title: "Повернутися на початок сторінки"
+  skip_to_main: "До тексту"
+
+search:
+  open_button_title: "Шукати (/)"
+  close_button_title: "Закрити (Esc)"
+  input_placeholder: "Введіть запит тут"
+
+sharing:
+  email: "Надіслати електронною поштою"
+  facebook: "Поширити на Facebook"
+  linkedin: "Поширити на LinkedIn"
+  pinterest: "Зберегти на Pinterest"
+  reddit: "Опублікувати на Reddit"
+  twitter: "Поширити на Twitter"
+
+shortcode:
+  recent_articles: "Недавні дописи"
+
+recent:
+  show_more: "Показати більше"
