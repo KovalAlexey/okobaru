@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://okoval.blog/"
+baseURL = "https://okoval.blog"
 defaultContentLanguage = "en"
 disableLanguages = []
 
