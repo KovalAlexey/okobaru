@@ -15,7 +15,7 @@ This model from Japanese manufacturer Hasegawa, according to [ScaleMates](https:
 
 For those seeking maximum realism and detail, resin detail sets are available from [USCP](https://uscp-ua.com/index.php?route=product/search&search=bmw%202002), nd modification videos for this kit can be found on YouTube.
 
-{{< carousel images="featured.jpg,main.jpg,IMG_3637.jpg,IMG_3636.jpg,IMG_3639.jpg" interval=3000 >}}
+{{< carousel images="featured.jpg, main.jpg, IMG_3637.jpg, IMG_3636.jpg, IMG_3639.jpg" >}}
 
 ### Assembly
 
