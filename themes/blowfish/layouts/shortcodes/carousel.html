@@ -4,20 +4,20 @@
 
 {{ $page := .Page.Resources }}
 {{ $imagesTemp := .Get "images" }}
-{{ $imagesTemp = strings.TrimPrefix "{" $imagesTemp  }}
-{{ $imagesTemp = strings.TrimSuffix "}" $imagesTemp  }}
+{{ $imagesTemp = strings.TrimPrefix "{" $imagesTemp }}
+{{ $imagesTemp = strings.TrimSuffix "}" $imagesTemp }}
 {{ $imagesTemp := strings.Split $imagesTemp "," }}
 {{ $images := slice}}
 {{ range $imagesTemp }}
-    {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
-        {{ $images = $images | append (resources.GetRemote .) }}
-    {{ else }}
-        {{ $images = $images | append ($page.Match .) }}
-    {{ end }}
+{{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
+{{ $images = $images | append (resources.GetRemote .) }}
+{{ else }}
+{{ $images = $images | append ($page.Match .) }}
+{{ end }}
 {{ end }}
 
-<div id="{{ $id }}" class="relative" data-twe-carousel-init data-twe-ride="carousel">
-    <div class="absolute right-0 bottom-0 left-0 z-[2] mx-[15%] mb-10 flex list-none justify-center p-0"
+<div id="{{ $id }}" class="relative flex justify-center" data-twe-carousel-init data-twe-ride="carousel">
+    <!-- <div class="absolute right-0 bottom-0 left-0 z-[2] mx-[15%] mb-10 flex list-none justify-center p-0"
         data-twe-carousel-indicators>
 
         {{ $num := 0 }}
@@ -30,7 +30,7 @@
         {{ $num = add $num 1 }}
         {{ end }}
 
-    </div>
+    </div> -->
     <div class="relative w-full overflow-hidden after:clear-both after:block after:content-['']">
 
         {{ $num := 0 }}
@@ -38,8 +38,9 @@
 
         <div class="relative float-left -mr-[100%] {{ if not (eq $num 0) }} hidden {{ end }} w-full transition-transform duration-[{{ $interval }}ms] ease-in-out motion-reduce:transition-none"
             data-twe-carousel-item {{ if eq $num 0 }} data-twe-carousel-active {{ end }}>
-            <div class="ratio-{{ $aspect }} single_hero_background">
-                <img src="{{ .RelPermalink }}" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image {{$num}}"/>
+            <div class="ratio-{{ $aspect }} single_hero_background flex justify-center items-center">
+                <img src="{{ .RelPermalink }}" class="block absolute top-0 object-cover w-full h-full nozoom mx-auto"
+                    alt="carousel image {{$num}}" />
             </div>
         </div>
 
@@ -69,6 +70,6 @@
             </svg>
         </span>
         <span
-            class="!absolute !-m-px !h-px !w-px !overflow-hidden !whitespace-nowrap !border-0 !p-0 ![clip:rect(0,0,0,0)]">Nextsads</span>
+            class="!absolute !-m-px !h-px !w-px !overflow-hidden !whitespace-nowrap !border-0 !p-0 ![clip:rect(0,0,0,0)]">Next</span>
     </button>
 </div>
