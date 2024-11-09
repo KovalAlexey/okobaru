@@ -50,11 +50,3 @@ The 2002 Turbo, launched in 1973, was Europe’s first turbocharged production c
 ### Conclusion
 
 The Hasegawa BMW 2002 Tii model is a well-designed kit that offers a satisfying assembly experience and excellent results, despite its dated design. Although it consists of relatively few parts and has some drawbacks, it can be built into a classy, realistic model. Overall, this is a great kit that rewards patience and creativity, with a straightforward assembly and minimal fit issues, making it an excellent choice for beginners and experienced modelers alike.
-
-{{< gallery >}}
-  <img src="featured.jpg" class="grid-w33" />
-  <img src="main.jpg" class="grid-w33" />
-  <img src="IMG_3637.jpg" class="grid-w33" />
-  <img src="IMG_3636.jpg" class="grid-w33" />
-  <img src="IMG_3639.jpg" class="grid-w33" />
-{{< /gallery >}}
