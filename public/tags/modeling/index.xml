@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Modeling on </title>
+    <title>Modeling on CraftMind</title>
     <link>http://localhost:1313/tags/modeling/</link>
-    <description>Recent content in Modeling on </description>
+    <description>Recent content in Modeling on CraftMind</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>okoval.page@gmail.com (okoval)</managingEditor>
-    <webMaster>okoval.page@gmail.com (okoval)</webMaster>
+    <managingEditor>alexiskoval@proton.me (craftmind)</managingEditor>
+    <webMaster>alexiskoval@proton.me (craftmind)</webMaster>
     <copyright>Copy, right? 🤔</copyright>
-    <lastBuildDate>Mon, 04 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/modeling/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/modeling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Toyota Trueno AE86 by Aoshima</title>
+      <link>http://localhost:1313/posts/car-blog/toyota-trueno-ae86/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      <author>alexiskoval@proton.me (craftmind)</author>
+      <guid>http://localhost:1313/posts/car-blog/toyota-trueno-ae86/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Nissan 2000 GT-R by Tamiya</title>
       <link>http://localhost:1313/posts/car-blog/nissan-2000-gtr/</link>
       <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
-      <author>okoval.page@gmail.com (okoval)</author>
+      <author>alexiskoval@proton.me (craftmind)</author>
       <guid>http://localhost:1313/posts/car-blog/nissan-2000-gtr/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/car-blog/nissan-2000-gtr/featured.jpg" />
@@ -24,7 +34,7 @@
       <title>BMW 2002 tii (Late Version) by Hasegawa</title>
       <link>http://localhost:1313/posts/car-blog/bmw-2002-tii/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <author>okoval.page@gmail.com (okoval)</author>
+      <author>alexiskoval@proton.me (craftmind)</author>
       <guid>http://localhost:1313/posts/car-blog/bmw-2002-tii/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/car-blog/bmw-2002-tii/featured.jpg" />

@@ -98,4 +98,19 @@
       href="http://localhost:1313/ua/posts/car-blog/"
     />
   </url>
+  <url>
+    <loc>http://localhost:1313/ua/posts/car-blog/toyota-trueno-ae86/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/posts/car-blog/toyota-trueno-ae86/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ua"
+      href="http://localhost:1313/ua/posts/car-blog/toyota-trueno-ae86/"
+    />
+  </url>
 </urlset>

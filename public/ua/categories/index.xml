@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on </title>
+    <title>Categories on Craftmind</title>
     <link>http://localhost:1313/ua/categories/</link>
-    <description>Recent content in Categories on </description>
+    <description>Recent content in Categories on Craftmind</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ua</language>
-    <managingEditor>okoval.page@gmail.com (okoval)</managingEditor>
-    <webMaster>okoval.page@gmail.com (okoval)</webMaster>
+    <managingEditor>alexiskoval@proton.me (craftmind)</managingEditor>
+    <webMaster>alexiskoval@proton.me (craftmind)</webMaster>
     <copyright>Копіюй, правильно? 🤔</copyright>
     <atom:link href="http://localhost:1313/ua/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>

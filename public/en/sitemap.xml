@@ -3,24 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/posts/car-blog/nissan-2000-gtr/</loc>
-    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="ua"
-      href="http://localhost:1313/ua/posts/car-blog/nissan-2000-gtr/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/posts/car-blog/nissan-2000-gtr/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -35,8 +19,24 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/posts/car-blog/toyota-trueno-ae86/</loc>
+    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="ua"
+      href="http://localhost:1313/ua/posts/car-blog/toyota-trueno-ae86/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/posts/car-blog/toyota-trueno-ae86/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -48,6 +48,22 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/car-blog/nissan-2000-gtr/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="ua"
+      href="http://localhost:1313/ua/posts/car-blog/nissan-2000-gtr/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/posts/car-blog/nissan-2000-gtr/"
     />
   </url>
   <url>

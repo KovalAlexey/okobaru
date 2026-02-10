@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = ""
+title = "CraftMind"
 
 [params]
   displayName = "EN 🇺🇸"
@@ -11,19 +11,19 @@ title = ""
   dateFormat = "2 Jan 2006"
   logo = "img/logo.png"
   secondaryLogo = "img/secondary-logo.png"
-  description = "My awesome website"
+  description = "Craftmind"
   copyright = "Copy, right? \U0001F914"
 
 [params.author]
-  name = "okoval"
-  email = "okoval.page@gmail.com"
+  name = "craftmind"
+  email = "alexiskoval@proton.me"
   image = "img/author_logo.png"
   imageQuality = 96
   # headline = "I'm only human"
   bio = "Your hobby wizard"
   links = [
-    { email = "mailto:okoval.page@gmail.com" },
-    { link = "https://okoval.page/" },
+    { email = "mailto:alexiskoval@proton.me" },
+    { link = "https://craftmind.io/" },
 #    { discord = "https://discord.gg/invitecode" },
 #    { github = "https://github.com/username" },
     { instagram = "https://instagram.com/car.scale" },

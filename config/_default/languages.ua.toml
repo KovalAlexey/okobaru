@@ -2,7 +2,7 @@ disabled = false
 languageCode = "ua"
 languageName = "Ukrainian"
 weight = 1
-title = ""
+title = "Craftmind"
 
 [params]
   displayName = "UA 🇺🇦"
@@ -11,19 +11,19 @@ title = ""
   dateFormat = "02/01/2006"
   logo = "img/logo.png"
   secondaryLogo = "img/secondary-logo.png"
-  description = "My awesome website"
+  description = "Craftmind"
   copyright = "Копіюй, правильно? \U0001F914"
 
 [params.author]
-  name = "okoval"
-  email = "okoval.page@gmail.com"
+  name = "craftmind"
+  email = "alexiskoval@proton.me"
   image = "img/author_logo.png"
   imageQuality = 96
   # headline = "I'm only human"
   bio = "Ваш хоббі майстер"
   links = [
-    { email = "mailto:okoval.page@gmail.com" },
-    { link = "https://okoval.page/" },
+    { email = "mailto:alexiskoval@proton.me" },
+    { link = "https://craftmind.io/" },
 #    { discord = "https://discord.gg/invitecode" },
 #    { github = "https://github.com/username" },
     { instagram = "https://instagram.com/car.scale" },
@@ -32,5 +32,6 @@ title = ""
     { x-twitter = "https://twitter.com/KovalAlexey" },
 #    { youtube = "https://youtube.com/username" }
   ]
+
 
 

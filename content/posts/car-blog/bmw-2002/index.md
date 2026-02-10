@@ -4,7 +4,7 @@ draft: false
 tags: ["cars", "modeling", "european"]
 slug: "bmw-2002-tii"
 description: "Blog post about BMW 2002 tii by Hasegawa"
-author: "okoval"
+author: "craftmind"
 date: 2024-11-01
 ---
 ## BMW 2002: A Classic Icon

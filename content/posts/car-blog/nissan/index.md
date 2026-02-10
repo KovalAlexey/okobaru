@@ -4,7 +4,7 @@ draft: false
 tags: ["cars", "modeling", "JDM"]
 slug: "nissan-2000-gtr"
 description: "Blog post about Nissan 2000 GT-R by Tamiya"
-author: "okoval"
+author: "craftmind"
 date: 2024-11-04
 ---
 
